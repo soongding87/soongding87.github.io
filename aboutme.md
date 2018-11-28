@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Daniel Taehoon Kang
+title: Daniel Kang
 subtitle: Fullstack developer, Devops, Musician
 ---
 
-Hi, I'm daniel!.  
+Hi, I'm Daniel!.  
 I'm from korea, living in vancouver.     
 I have the following qualities:
 
