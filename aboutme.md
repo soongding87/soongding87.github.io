@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Fullstack developer, Devops, musician
+title: Daniel Taehoon Kang
+subtitle: Fullstack developer, Devops, Musician
 ---
 
-My name is Taehoon Daniel Kang I have the following qualities:
+Hi, I'm daniel!.  
+I'm from korea, living in vancouver.     
+I have the following qualities:
 
-- I love Sports, Camping and Music.
-- Enjoy studying new technology and language.
-- I'm extremely loyal to my family
+* I love Sports, Camping and Music.
+* Enjoy studying new technology and language.
+* I'm extremely loyal to my family
 
 
