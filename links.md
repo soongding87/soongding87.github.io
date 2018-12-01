@@ -5,12 +5,14 @@ subtitle: These are useful links to study or work
 ---
 
 ## Interview questions
+###
 - [여기어때's interview questions(korean)](http://www.bloter.net/archives/325304)
----
 
+---
 ## Documents(English)
 
 ### Web Developemt
+
 - [CSS Gradient library](https://cssgradient.io/gradient-backgrounds/?fbclid=IwAR1SAgFn_hg6j0F7ED6ppt5UBrpZyG_FG01MSNlXeWS583o8ope6wW6SSq8)
 
 - [2018 React developer's roadmap](https://github.com/adam-golab/react-developer-roadmap?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily&fbclid=IwAR3OL41ubBgvOtHtWU8a0Qp4Xb0WaBW2NNML2K-xcTqwc49eyYjQTRfQBI0)
@@ -20,6 +22,7 @@ subtitle: These are useful links to study or work
 - [CSS Flexbox Cheatsheet](https://flexbox.help/?fbclid=IwAR0gPiaMGA76JsX10oyVxe3WV-Rnirx8AVIsRbxP1JkXhbP3GN2F3nHFaMs)
 
 ### OS,Network,etc
+
 - [Bash Scripts cheatsheet(English)](https://devhints.io/bash.html?fbclid=IwAR3vE12XmUshvaICiiDdTi3OnRk9YSB52BG6J4DQPJ8g-VM6-Bc3Z6AUI_k)
 
 
