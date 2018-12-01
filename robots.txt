@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://soongding87.github.io/sitemap.xml
