@@ -103,7 +103,7 @@ url-pretty: "soongding87.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "kangtaehoon87"
+google_analytics: "UA-130178010-1"
 
 # Google Tag Manager ID
 #gtm: ""
