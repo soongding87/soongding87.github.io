@@ -14,4 +14,6 @@ priority : 1.0
 ### I wanted to share my story about moving to canada.
 ### This post is written in both english and korean.
 
+Coming soon
+
 
