@@ -12,7 +12,7 @@ date: 2019-01-15
 ### Let's try it out!
 
 
-1. Make the Util component
+1.Make the Util component
 
 ```javascript
 class ScrollToTop extends Component {
@@ -30,7 +30,7 @@ class ScrollToTop extends Component {
 export default withRouter(ScrollToTop);
 ```
 
-2. Render it at the top of your app, But you should render below Router
+2.Render it at the top of your app, But you should render below Router
 If you are using redux store, then you can write code on top level page like this:
 
 ```javascript
